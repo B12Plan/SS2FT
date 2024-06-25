@@ -1,5 +1,5 @@
 # SS2FT
-.....
+...
 10021
 name: Tag Docker image
 
